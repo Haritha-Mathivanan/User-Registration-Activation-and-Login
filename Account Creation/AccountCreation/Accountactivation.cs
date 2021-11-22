@@ -16,7 +16,7 @@ namespace AccountCreation
         public Accountactivation() 
         {
            Register = FileRead("D:\\Root\\DataStorageFiles\\Register.txt");
-           //Activated = FileRead("D:\\Root\\DataStorageFiles\\Activated.txt");
+           Activated = FileRead("D:\\Root\\DataStorageFiles\\Activated.txt");
         }
         public void AddDetails(string Name, int Age, string Dob, string Username, string Password, string Email, string Address)
         {
