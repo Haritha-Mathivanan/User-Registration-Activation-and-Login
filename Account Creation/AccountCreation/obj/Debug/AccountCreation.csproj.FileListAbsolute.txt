@@ -1,0 +1,5 @@
+D:\Root\AccountCreation\AccountCreation\obj\Debug\AccountCreation.csprojResolveAssemblyReference.cache
+D:\Root\AccountCreation\AccountCreation\bin\Debug\AccountCreation.dll
+D:\Root\AccountCreation\AccountCreation\bin\Debug\AccountCreation.pdb
+D:\Root\AccountCreation\AccountCreation\obj\Debug\AccountCreation.dll
+D:\Root\AccountCreation\AccountCreation\obj\Debug\AccountCreation.pdb
